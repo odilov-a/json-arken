@@ -1,0 +1,124 @@
+{
+  "mitsubishi-nekra" : [
+    {
+      "id" : 1,
+      "generator_model" : "ARK-M1400 N5",
+      "diesel_engine" : "S12R-PTA",
+      "number_of_cylinder" : "12",
+      "alternator" : "ARK 6G",
+      "prime_kva" : "1250",
+      "prime_kw" : "1000",
+      "standby_kva" : "1375",
+      "standby_kw" : "1100",
+      "url" : ""
+    },
+    {
+      "id" : 2,
+      "generator_model" : "ARK-M1450 N5",
+      "diesel_engine" : "S12R-PTA",
+      "number_of_cylinder" : "12",
+      "alternator" : "ARK 7E",
+      "prime_kva" : "1300",
+      "prime_kw" : "1040",
+      "standby_kva" : "1430",
+      "standby_kw" : "1144",
+      "url" : ""
+    },
+    {
+      "id" : 3,
+      "generator_model" : "ARK-M1550 N5",
+      "diesel_engine" : "S12R-PTA2",
+      "number_of_cylinder" : "12",
+      "alternator" : "ARK 7F",
+      "prime_kva" : "1400",
+      "prime_kw" : "1120",
+      "standby_kva" : "1550",
+      "standby_kw" : "1240",
+      "url" : ""
+    },
+    {
+      "id" : 4,
+      "generator_model" : "ARK-M1700 N5",
+      "diesel_engine" : "S12R-PTAA2",
+      "number_of_cylinder" : "12",
+      "alternator" : "ARK FS",
+      "prime_kva" : "1535",
+      "prime_kw" : "1228",
+      "standby_kva" : "1688",
+      "standby_kw" : "1350",
+      "url" : ""
+    },
+    {
+      "id" : 5,
+      "generator_model" : "ARK-M1900 N5",
+      "diesel_engine" : "S16R-PTA",
+      "number_of_cylinder" : "16",
+      "alternator" : "ARK 7G",
+      "prime_kva" : "1750",
+      "prime_kw" : "1400",
+      "standby_kva" : "1900",
+      "standby_kw" : "1520",
+      "url" : ""
+    },
+    {
+      "id" : 6,
+      "generator_model" : "ARK-M2100 N5",
+      "diesel_engine" : "S16R-PTA2",
+      "number_of_cylinder" : "16",
+      "alternator" : "ARK 7H",
+      "prime_kva" : "1900",
+      "prime_kw" : "1520",
+      "standby_kva" : "2100",
+      "standby_kw" : "1680",
+      "url" : ""
+    },
+    {
+      "id" : 7,
+      "generator_model" : "ARK-M2300 N5",
+      "diesel_engine" : "S16R-PTAA2",
+      "number_of_cylinder" : "16",
+      "alternator" : "ARK 7J",
+      "prime_kva" : "2030",
+      "prime_kw" : "1624",
+      "standby_kva" : "2280",
+      "standby_kw" : "1824",
+      "url" : ""
+    },
+    {
+      "id" : 8,
+      "generator_model" : "ARK-M2550 N5",
+      "diesel_engine" : "S16R2-PTAW",
+      "number_of_cylinder" : "16",
+      "alternator" : "ARK 7K",
+      "prime_kva" : "2290",
+      "prime_kw" : "1832",
+      "standby_kva" : "2540",
+      "standby_kw" : "2032",
+      "url" : ""
+    },
+    {
+      "id" : 9,
+      "generator_model" : "ARK-M2670 N5",
+      "diesel_engine" : "S16R2-PTAW-E",
+      "number_of_cylinder" : "16",
+      "alternator" : "ARK 7K",
+      "prime_kva" : "2410",
+      "prime_kw" : "1928",
+      "standby_kva" : "2660",
+      "standby_kw" : "2128",
+      "url" : ""
+    },
+    {
+      "id" : 10,
+      "generator_model" : "ARK-M2750 N5",
+      "diesel_engine" : "S16R2-PTAW2-E",
+      "number_of_cylinder" : "16",
+      "alternator" : "ARK 7K",
+      "prime_kva" : "2500",
+      "prime_kw" : "2000",
+      "standby_kva" : "2750",
+      "standby_kw" : "2200",
+      "url" : ""
+    }
+  ]
+}

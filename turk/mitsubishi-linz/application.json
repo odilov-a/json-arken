@@ -1,0 +1,136 @@
+{
+  "mitsubishi-linz" : [
+    {
+      "id" : 1,
+      "generator_model" : "ARK-M1400 L5",
+      "diesel_engine" : "S12R-PTA",
+      "number_of_cylinder" : "12",
+      "alternator" : "PRO40M C/4",
+      "prime_kva" : "1250",
+      "prime_kw" : "1000",
+      "standby_kva" : "1350",
+      "standby_kw" : "1080",
+      "url" : ""
+    },
+    {
+      "id" : 2,
+      "generator_model" : "ARK-M1450 L5",
+      "diesel_engine" : "S12R-PTA",
+      "number_of_cylinder" : "12",
+      "alternator" : "PRO40M D/4",
+      "prime_kva" : "1300",
+      "prime_kw" : "1040",
+      "standby_kva" : "1430",
+      "standby_kw" : "1144",
+      "url" : ""
+    },
+    {
+      "id" : 3,
+      "generator_model" : "ARK-M1550 L5",
+      "diesel_engine" : "S12R-PTA2",
+      "number_of_cylinder" : "12",
+      "alternator" : "PRO40L E/4",
+      "prime_kva" : "1400",
+      "prime_kw" : "1120",
+      "standby_kva" : "1540",
+      "standby_kw" : "1232",
+      "url" : ""
+    },
+    {
+      "id" : 4,
+      "generator_model" : "ARK-M1700 S5",
+      "diesel_engine" : "S12R-PTAA2",
+      "number_of_cylinder" : "12",
+      "alternator" : "S7L1D-D4",
+      "prime_kva" : "1535",
+      "prime_kw" : "1228",
+      "standby_kva" : "1688",
+      "standby_kw" : "1350",
+      "url" : ""
+    },
+    {
+      "id" : 5,
+      "generator_model" : "ARK-M1900 S5",
+      "diesel_engine" : "S16R-PTA",
+      "number_of_cylinder" : "16",
+      "alternator" : "S7L1D-E4",
+      "prime_kva" : "1750",
+      "prime_kw" : "1400",
+      "standby_kva" : "1873",
+      "standby_kw" : "1498",
+      "url" : ""
+    },
+    {
+      "id" : 6,
+      "generator_model" : "ARK-M2100 S5",
+      "diesel_engine" : "S16R-PTA2",
+      "number_of_cylinder" : "16",
+      "alternator" : "S7L1D-F4",
+      "prime_kva" : "1900",
+      "prime_kw" : "1520",
+      "standby_kva" : "2035",
+      "standby_kw" : "1628",
+      "url" : ""
+    },
+    {
+      "id" : 7,
+      "generator_model" : "ARK-M2300 S5",
+      "diesel_engine" : "S16R-PTAA2",
+      "number_of_cylinder" : "16",
+      "alternator" : "S7L1D-H4",
+      "prime_kva" : "2040",
+      "prime_kw" : "1632",
+      "standby_kva" : "2290",
+      "standby_kw" : "1832",
+      "url" : ""
+    },
+    {
+      "id" : 8,
+      "generator_model" : "ARK-M2550 S5",
+      "diesel_engine" : "S16R2-PTAW",
+      "number_of_cylinder" : "16",
+      "alternator" : "PI734H",
+      "prime_kva" : "2300",
+      "prime_kw" : "1840",
+      "standby_kva" : "2550",
+      "standby_kw" : "2040",
+      "url" : ""
+    },
+    {
+      "id" : 9,
+      "generator_model" : "ARK-M2670 S5",
+      "diesel_engine" : "S16R2-PTAW-E",
+      "number_of_cylinder" : "16",
+      "alternator" : "S7L1D-J4",
+      "prime_kva" : "2410",
+      "prime_kw" : "1928",
+      "standby_kva" : "2670",
+      "standby_kw" : "2136",
+      "url" : ""
+    },
+    {
+      "id" : 10,
+      "generator_model" : "ARK-M2750 S5",
+      "diesel_engine" : "S16R2-PTAW2-E",
+      "number_of_cylinder" : "16",
+      "alternator" : "S7L1D-J4",
+      "prime_kva" : "2500",
+      "prime_kw" : "2000",
+      "standby_kva" : "2750",
+      "standby_kw" : "2200",
+      "url" : ""
+    },
+    {
+      "id" : 11,
+      "generator_model" : "ARK-M2800 S5",
+      "diesel_engine" : "S16R2-PTAW2-E",
+      "number_of_cylinder" : "16",
+      "alternator" : "S7L1D-J4",
+      "prime_kva" : "2540",
+      "prime_kw" : "2032",
+      "standby_kva" : "2800",
+      "standby_kw" : "2240",
+      "url" : ""
+    }
+  ]
+}
