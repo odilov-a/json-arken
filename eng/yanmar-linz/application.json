@@ -10,7 +10,7 @@
       "prime_kw" : "16",
       "standby_kva" : "22",
       "standby_kw" : "17,6",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/12VXNGY_ptvtJtA26ifGBiSmofIRXzjsf/view"
     },
     {
       "id" : 2,
@@ -22,7 +22,7 @@
       "prime_kw" : "31,2",
       "standby_kva" : "43",
       "standby_kw" : "34,4",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1Xu857_eslGlfUCHqnHl1va3bdZ0zdX4d/view"
     },
     {
       "id" : 3,
@@ -34,7 +34,7 @@
       "prime_kw" : "37,9",
       "standby_kva" : "52",
       "standby_kw" : "41,6",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1eqZsSxKNWFpe7q8vW72LiDRovOplI8PE/view"
     },
     {
       "id" : 4,
@@ -46,7 +46,7 @@
       "prime_kw" : "45,1",
       "standby_kva" : "62",
       "standby_kw" : "49,6",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1orBuceBoWPtG3jblqJTiSm7hzi56lNtP/view"
     },
     {
       "id" : 5,
@@ -58,7 +58,7 @@
       "prime_kw" : "50,4",
       "standby_kva" : "71",
       "standby_kw" : "56,8",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1vjD1ryF9En1dkIFY_z0yBSBITPkdNACi/view"
     }
   ]
 }

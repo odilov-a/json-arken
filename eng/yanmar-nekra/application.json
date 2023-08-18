@@ -2,7 +2,7 @@
   "yanmar-nekra" : [
     {
       "id" : 1,
-      "generator_model" : "ARK-Y 22 L5",
+      "generator_model" : "ARK-Y 22 N5",
       "diesel_engine" : "4TNV88-GGEA",
       "number_of_cylinder" : "4",
       "alternator" : "ARK 184E",
@@ -10,11 +10,11 @@
       "prime_kw" : "15,7",
       "standby_kva" : "21,6",
       "standby_kw" : "17,3",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1QqFmOAkzV1rqxmJY2UgxrKMg6cBNh1on/view"
     },
     {
       "id" : 2,
-      "generator_model" : "ARK-Y 44 L5",
+      "generator_model" : "ARK-Y 44 N5",
       "diesel_engine" : "4TNV98-GGEA",
       "number_of_cylinder" : "4",
       "alternator" : "ARK 184J",
@@ -22,11 +22,11 @@
       "prime_kw" : "30,5",
       "standby_kva" : "41,9",
       "standby_kw" : "33,5",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/105mM_Sd8kP3cfCjlOdeR20RbIJ_0QOIt/view"
     },
     {
       "id" : 3,
-      "generator_model" : "ARK-Y 55 L5",
+      "generator_model" : "ARK-Y 55 N5",
       "diesel_engine" : "4TNV98T-GGEA",
       "number_of_cylinder" : "4",
       "alternator" : "ARK 224D",
@@ -34,11 +34,11 @@
       "prime_kw" : "37,6",
       "standby_kva" : "51,7",
       "standby_kw" : "41,4",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1YVWbk6KMFmCnhhdaBT5NcaydLlrvGyQI/view"
     },
     {
       "id" : 4,
-      "generator_model" : "ARK-Y 65 L5",
+      "generator_model" : "ARK-Y 65 N5",
       "diesel_engine" : "4TNV106-GGEA",
       "number_of_cylinder" : "4",
       "alternator" : "ARK 224E",
@@ -46,11 +46,11 @@
       "prime_kw" : "44,8",
       "standby_kva" : "62",
       "standby_kw" : "49,6",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1WHOo8frUD1aGk7rR18khWQWuhGrwa9AW/view"
     },
     {
       "id" : 5,
-      "generator_model" : "ARK-Y 70 L5",
+      "generator_model" : "ARK-Y 70 N5",
       "diesel_engine" : "4TNV106T-GGEA",
       "number_of_cylinder" : "4",
       "alternator" : "ARK 224F",
@@ -58,7 +58,7 @@
       "prime_kw" : "51,68",
       "standby_kva" : "71",
       "standby_kw" : "56,8",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1_SqWM0gd3ifMMRZd-EZ0tRylGgOqtgMm/view"
     }
   ]
 }
