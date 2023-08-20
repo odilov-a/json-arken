@@ -10,7 +10,7 @@
       "prime_kw" : "20",
       "standby_kva" : "28",
       "standby_kw" : "22,4",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/13YDGCcDaYPIvXtJlBWMPY5bezdrfgNtF/view"
     },
     {
       "id" : 2,
@@ -22,7 +22,7 @@
       "prime_kw" : "28",
       "standby_kva" : "38,5",
       "standby_kw" : "30,8",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1iKZonf1YG-l9M4lMn_dZH8cqRMd8woaK/view"
     },
     {
       "id" : 3,
@@ -34,7 +34,7 @@
       "prime_kw" : "48",
       "standby_kva" : "65",
       "standby_kw" : "52",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1iPzbe2aZlCMs0caX3NTGYOBjRf7GMvUQ/view"
     },
     {
       "id" : 4,
@@ -46,7 +46,7 @@
       "prime_kw" : "80",
       "standby_kva" : "110",
       "standby_kw" : "88",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1lhRgz45Hv_cG1yyjOIiutFY-MSBCsLOl/view"
     },
     {
       "id" : 5,
@@ -58,7 +58,7 @@
       "prime_kw" : "120",
       "standby_kva" : "169,5",
       "standby_kw" : "135,6",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1pE5Q6PvQclQBSDzO8I8aGDhSubX-EIrq/view"
     },
     {
       "id" : 6,
@@ -70,7 +70,7 @@
       "prime_kw" : "160",
       "standby_kva" : "220",
       "standby_kw" : "176",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1_xpwttcbrsMeBrRhcZQ6d_UAp_hYEvs3/view"
     },
     {
       "id" : 7,
@@ -82,11 +82,11 @@
       "prime_kw" : "254,4",
       "standby_kva" : "350",
       "standby_kw" : "280",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/14sQZgnypmJeOdUVPZO9K7sgm-CDaxL2-/view"
     },
     {
       "id" : 8,
-      "generator_model" : "ARK-C 450 L5",
+      "generator_model" : "ARK-C 450 S5",
       "diesel_engine" : "QSG12-G4",
       "number_of_cylinder" : "6",
       "alternator" : "S4L1D-F",
@@ -94,7 +94,7 @@
       "prime_kw" : "332",
       "standby_kva" : "460",
       "standby_kw" : "368",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1jEJM-UTLlc2QoQNHUkirngCIwtfr3Re3/view"
     },
     {
       "id" : 9,
@@ -106,7 +106,7 @@
       "prime_kw" : "424",
       "standby_kva" : "580",
       "standby_kw" : "464",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1pUAXJ4RKNN0SfLZObaRv-esuq-_VDd1b/view"
     },
     {
       "id" : 10,
@@ -118,7 +118,7 @@
       "prime_kw" : "516,8",
       "standby_kva" : "700",
       "standby_kw" : "560",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1AatCC53iVGW8Gi7_7r-mNHK0gCvr4s7j/view"
     },
     {
       "id" : 11,
@@ -130,7 +130,7 @@
       "prime_kw" : "N / A",
       "standby_kva" : "843",
       "standby_kw" : "674,4",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1rlyj3aJb0fyBqZw5dw1oyfHrNpczWdCN/view"
     },
     {
       "id" : 12,
@@ -142,7 +142,7 @@
       "prime_kw" : "656,8",
       "standby_kva" : "892",
       "standby_kw" : "713,6",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1kCUG-z_cm914pn68iQyz7zq2cMjc3XfH/view"
     },
     {
       "id" : 13,
@@ -154,7 +154,7 @@
       "prime_kw" : "822,4",
       "standby_kva" : "1124",
       "standby_kw" : "899,2",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/132hSkjn2sEktGmA9IQacHbUszuNnaTDf/view"
     },
     {
       "id" : 14,
@@ -166,7 +166,7 @@
       "prime_kw" : "1008",
       "standby_kva" : "1345",
       "standby_kw" : "1076",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1Q_D96BeuqrQ1QtZPpEod-hYZsPZXC2vG/view"
     },
     {
       "id" : 15,
@@ -178,7 +178,7 @@
       "prime_kw" : "1208",
       "standby_kva" : "1660",
       "standby_kw" : "1328",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1jXsFn8SXEawr2-5biC7ivtb1VW_-d3xs/view"
     },
     {
       "id" : 16,
@@ -190,7 +190,7 @@
       "prime_kw" : "1632",
       "standby_kva" : "2250",
       "standby_kw" : "1800",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1TqyVK0fZTf0_Gi6DiczXqDFO-Nr-0zFA/view"
     }
   ]
 }

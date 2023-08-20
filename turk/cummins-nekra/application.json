@@ -2,7 +2,7 @@
   "cummins-nekra" : [
     {
       "id" : 1,
-      "generator_model" : "ARK-C 30 L5",
+      "generator_model" : "ARK-C 30 N5",
       "diesel_engine" : "X2.5-G2",
       "number_of_cylinder" : "4",
       "alternator" : "ARK 184EF",
@@ -10,11 +10,11 @@
       "prime_kw" : "20",
       "standby_kva" : "27,5",
       "standby_kw" : "22",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1cxhWPGis0lYGmMffYkjxBw1VO7Qt7OxF/view"
     },
     {
       "id" : 2,
-      "generator_model" : "ARK-C 40 L5",
+      "generator_model" : "ARK-C 40 N5",
       "diesel_engine" : "X3.3-G1",
       "number_of_cylinder" : "4",
       "alternator" : "ARK 184H",
@@ -22,11 +22,11 @@
       "prime_kw" : "28",
       "standby_kva" : "38",
       "standby_kw" : "30,4",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1g8rzwKziZSgxK7Srlh3YsSXJ0z__Nq_c/view"
     },
     {
       "id" : 3,
-      "generator_model" : "ARK-C 70 L5",
+      "generator_model" : "ARK-C 70 N5",
       "diesel_engine" : "4BTAA3.3-G13",
       "number_of_cylinder" : "4",
       "alternator" : "ARK 224E",
@@ -34,11 +34,11 @@
       "prime_kw" : "48",
       "standby_kva" : "63",
       "standby_kw" : "50,4",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/133iJaUamQU49rrZvAMf17iGEXSvOjUu9/view"
     },
     {
       "id" : 4,
-      "generator_model" : "ARK-C 110 L5",
+      "generator_model" : "ARK-C 110 N5",
       "diesel_engine" : "6BTA5.9-G5",
       "number_of_cylinder" : "6",
       "alternator" : "ARK 274C",
@@ -46,11 +46,11 @@
       "prime_kw" : "80",
       "standby_kva" : "110",
       "standby_kw" : "88",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1_dPrNdtcyLc7313VHcr_jtjHn-2ofYvO/view"
     },
     {
       "id" : 5,
-      "generator_model" : "ARK-C 170 L5",
+      "generator_model" : "ARK-C 170 N5",
       "diesel_engine" : "6BTAA5.9-G7",
       "number_of_cylinder" : "6",
       "alternator" : "ARK 274FS",
@@ -58,11 +58,11 @@
       "prime_kw" : "120",
       "standby_kva" : "170",
       "standby_kw" : "136",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1uU-SIUrSYaNpTt74RcRr56KWyJzDArf_/view"
     },
     {
       "id" : 6,
-      "generator_model" : "ARK-C 220 L5",
+      "generator_model" : "ARK-C 220 N5",
       "diesel_engine" : "QSB7-G5",
       "number_of_cylinder" : "6",
       "alternator" : "ARK 274H",
@@ -70,11 +70,11 @@
       "prime_kw" : "160",
       "standby_kva" : "220",
       "standby_kw" : "176",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1H-siefPjhzYteeCM66Qgz3pD-tHz06rs/view"
     },
     {
       "id" : 7,
-      "generator_model" : "ARK-C 350 L5",
+      "generator_model" : "ARK-C 350 N5",
       "diesel_engine" : "6LTAA9.5-G1",
       "number_of_cylinder" : "6",
       "alternator" : "ARK 4ES",
@@ -82,11 +82,11 @@
       "prime_kw" : "250,4",
       "standby_kva" : "350",
       "standby_kw" : "280",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1UlvgfDmoHbO1QnqYRlBExULfCDxX7MRJ/view"
     },
     {
       "id" : 8,
-      "generator_model" : "ARK-C 450 L5",
+      "generator_model" : "ARK-C 450 N5",
       "diesel_engine" : "QSG12-G4",
       "number_of_cylinder" : "6",
       "alternator" : "ARK 4FG",
@@ -94,11 +94,11 @@
       "prime_kw" : "320",
       "standby_kva" : "450",
       "standby_kw" : "360",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1jLXiBd9ZeRNWJY5Fcpvr8mY2RZbiJ2x-/view"
     },
     {
       "id" : 9,
-      "generator_model" : "ARK-C 580 S5",
+      "generator_model" : "ARK-C 580 N5",
       "diesel_engine" : "QSZ13-G10",
       "number_of_cylinder" : "6",
       "alternator" : "ARK 5D",
@@ -106,11 +106,11 @@
       "prime_kw" : "424",
       "standby_kva" : "580",
       "standby_kw" : "464",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1YhQMdzs3a7RqtOVEmBISkcot3RQ3iLD8/view"
     },
     {
       "id" : 10,
-      "generator_model" : "ARK-C 700 S5",
+      "generator_model" : "ARK-C 700 N5",
       "diesel_engine" : "VTA28-G5",
       "number_of_cylinder" : "12",
       "alternator" : "ARK 5F",
@@ -118,11 +118,11 @@
       "prime_kw" : "516,8",
       "standby_kva" : "700",
       "standby_kw" : "560",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1C138MfMSK1jgtHmKKihxEa2-2ijy8gCF/view"
     },
     {
       "id" : 11,
-      "generator_model" : "ARK-C 850 S5",
+      "generator_model" : "ARK-C 850 N5",
       "diesel_engine" : "VTA28-G6",
       "number_of_cylinder" : "12",
       "alternator" : "ARK 6C",
@@ -130,11 +130,11 @@
       "prime_kw" : "N / A",
       "standby_kva" : "840",
       "standby_kw" : "672",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/105DlMRPvm9mbG_pWZ1AKujoJhCw-e81B/view"
     },
     {
       "id" : 12,
-      "generator_model" : "ARK-C 900 S5",
+      "generator_model" : "ARK-C 900 N5",
       "diesel_engine" : "QSK23-G3",
       "number_of_cylinder" : "6",
       "alternator" : "ARK 6D",
@@ -142,11 +142,11 @@
       "prime_kw" : "656",
       "standby_kva" : "892",
       "standby_kw" : "712",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1OLiZHzDno5dj51f6N9SI_MDPzRpK3jDr/view"
     },
     {
       "id" : 13,
-      "generator_model" : "ARK-C 1130 S5",
+      "generator_model" : "ARK-C 1130 N5",
       "diesel_engine" : "KTA38-G14",
       "number_of_cylinder" : "12",
       "alternator" : "ARK 6E",
@@ -154,11 +154,11 @@
       "prime_kw" : "822,4",
       "standby_kva" : "1100",
       "standby_kw" : "888",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1pTueuS4Kx1NvaQvdbhB-G72ZX0WhRe1r/view"
     },
     {
       "id" : 14,
-      "generator_model" : "ARK-C 1450 S5",
+      "generator_model" : "ARK-C 1450 N5",
       "diesel_engine" : "KTA50-G3",
       "number_of_cylinder" : "16",
       "alternator" : "ARK 7E",
@@ -166,11 +166,11 @@
       "prime_kw" : "1032",
       "standby_kva" : "1430",
       "standby_kw" : "1144",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1FFfS5kFbs4YnJIERGuR0GrRJWRQxMTbo/view"
     },
     {
       "id" : 15,
-      "generator_model" : "ARK-C 1650 S5",
+      "generator_model" : "ARK-C 1650 N5",
       "diesel_engine" : "KTA50-GS8",
       "number_of_cylinder" : "16",
       "alternator" : "ARK 7F",
@@ -178,11 +178,11 @@
       "prime_kw" : "1200",
       "standby_kva" : "1630",
       "standby_kw" : "1304",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1FwfNCKJ0T-Ym8StApqNQnxVoNFJYKN1_/view"
     },
     {
       "id" : 16,
-      "generator_model" : "ARK-C 2250 S5",
+      "generator_model" : "ARK-C 2250 N5",
       "diesel_engine" : "QSK60-G4",
       "number_of_cylinder" : "16",
       "alternator" : "ARK 7J",
@@ -190,7 +190,7 @@
       "prime_kw" : "1632",
       "standby_kva" : "2247",
       "standby_kw" : "1797,6",
-      "url" : ""
+      "url" : "https://drive.google.com/file/d/1huwE50nT77dAX_3wRr4vbxa6aNpnArf2/view"
     }
   ]
 }
