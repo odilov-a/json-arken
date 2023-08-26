@@ -484,7 +484,7 @@
       "id" : 41,
       "generator_model" : "ARK-B 2750 S5",
       "diesel_engine" : "12M55G2750/5",
-      "number_of_cylinder" : "12",
+      "number_of_cylinder" : "20",
       "alternator" : "ARK 7L",
       "prime_kva" : "2500",
       "prime_kw" : "2000",
