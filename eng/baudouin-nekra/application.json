@@ -471,7 +471,7 @@
     {
       "id" : 40,
       "generator_model" : "ARK-B 2550 N5",
-      "diesel_engine" : "20M33G2250",
+      "diesel_engine" : "20M33G2250/5",
       "number_of_cylinder" : "20",
       "alternator" : "ARK 7K",
       "prime_kva" : "2300",
